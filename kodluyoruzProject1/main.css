@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo-container{
+    width: 1350px;
+    height: 113px;
+}
+.logo{
+    margin-left: 800px;
+}
+.container-second{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    width: 1211px;
+    margin:auto;
+}
+#inputText{
+    width: 300px;
+    margin-left: 20px;
+}
+.inputSubm{
+    padding: 1px 6px;
+}
+.linksMain{
+    width: 1800px;
+    height: 80px;
+    margin-top: 3px;
+    margin-left: 120px;
+    background-color: rgb(255, 255, 255);
+    display: inline-flex;
+}
+.fArea{
+    background-color: rgb(126, 229, 218);
+    width: 600px;
+    height: 80px;
+    text-align: center;
+}
+.mTop{
+    margin-top: 10px;
+}
+.mTop2{
+    margin-top: 5px;
+}
+.sArea{
+    background-color: rgb(112, 204, 194);
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    margin-left: 3px;
+}
+
+.tArea{
+    background-color: rgb(98, 179, 170);
+    width: 800px;
+    height: 80px;
+    text-align: center;
+    margin-left: 3px;
+}
+ul li{
+    list-style-type: none;    
+}
+.aFs{
+    font-size: 13px;
+}
+.copyr{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 15px;
+}
